@@ -1,5 +1,8 @@
 # use Python 3
-  
+# TEAM NAME: the magician
+# DESCRIPTION: The code logs into the the local ftp server and retrieves the file permissions 
+# converts the permissions into binary and decodes that into a message
+
 from ftplib import FTP
 
 # FTP server details
